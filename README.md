@@ -6,5 +6,5 @@ gitのグローバルなコンフィグ置き場
 clone this repository at your home directory.
 
 ```
-% git config global core.excludesfile  ~/.git-config.d/.global_gitignore
+% git config -global core.excludesfile  ~/.git-config.d/.global_gitignore
 ```
